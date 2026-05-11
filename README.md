@@ -55,3 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=be8s&show_icons=true&theme=tokyonight" alt="Basem Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=be8s&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>

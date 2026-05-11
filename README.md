@@ -53,5 +53,5 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Basem Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=be8s&show_icons=true&theme=tokyonight" alt="Basem Stats" />
 </p>

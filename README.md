@@ -52,16 +52,3 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=be8s&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Basem Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=be8s&layout=compact&theme=dracula" alt="Top Languages" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=be8s&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Basem Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=be8s&layout=compact&theme=dracula" alt="Top Languages" />
-</p>

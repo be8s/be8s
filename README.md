@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Basem | أهلاً، أنا باسم</h2>
+<h2 align="left">Hi ! My name is Basem | أهلاً، أنا باسم</h2>
 
 ###
 
@@ -12,13 +12,13 @@
     <b>مبرمج ومهتم بالتقنية من الأردن</b>
   </p>
 
-  - 🛡️ <b>Cybersecurity Learner:</b> Passionate about network security and ethical hacking.<br>
+  - <b>Cybersecurity Learner:</b> Passionate about network security and ethical hacking.<br>
   &nbsp;&nbsp; <i>متعلم في الأمن السيبراني: شغوف بأمن الشبكات والاختراق الأخلاقي.</i>
   
-  - 🖥️ <b>Hardware Geek:</b> Expert in PC assembly, maintenance, and workstation upgrades.<br>
+  -  <b>Hardware Geek:</b> Expert in PC assembly, maintenance, and workstation upgrades.<br>
   &nbsp;&nbsp; <i>خبير عتاد: متخصص في تجميع وصيانة وتطوير محطات العمل (Workstations).</i>
   
-  - 🐍 <b>Developer:</b> Building tools with Python, Node.js, and Discord.js.<br>
+  -  <b>Developer:</b> Building tools with Python, Node.js, and Discord.js.<br>
   &nbsp;&nbsp; <i>مطور: أقوم ببناء أدوات باستخدام بايثون، نود جي أس، وبوتات الديسكورد.</i>
 </div>
 
